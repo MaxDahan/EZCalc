@@ -2,6 +2,7 @@
 This is a calculator application that is meant to replace the windows calculator.
 
 To control it you can either use the buttons with your mouse or use shortcut keys.
+Click on the arrows to expand or shrink the calculator. It has a smooth animation for closing, minimizing, expanding, etc.
 
 ![ez calc 1](https://user-images.githubusercontent.com/47724472/152275341-b4a8485d-5ec3-4f7e-a5c3-672742c066fd.JPG)
 ![ez calc 2](https://user-images.githubusercontent.com/47724472/152275342-04d5f527-64c1-472d-89f9-65a021a5f417.JPG)
